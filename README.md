@@ -33,8 +33,9 @@ Fraud detection is a high-stakes problem where missing a fraud (false negative) 
 
 ## ⚙️ Tech Stack  
 
-- **Python**  
-- **Libraries**: Scikit-learn, CatBoost, XGBoost, LightGBM, Optuna, Pandas, Matplotlib, Seaborn, SHAP  
+- **Python**
+- **Platform**: Google Colab
+- **Libraries**: Scikit-learn, CatBoost, XGBoost, LightGBM, Optuna, Pandas, Matplotlib, Seaborn  
 - **Pipeline Design** for easy deployment  
 
 ---
@@ -52,5 +53,11 @@ Fraud detection is a high-stakes problem where missing a fraud (false negative) 
   - Time features (`day`, `hour`, `day_of_week`)  
 
 ---
+## ✍️ Author & Contact  
 
+**Omprakash Gadhwal**  
+
+📧 Email: [omprakashg2004@gmail.com](mailto:omprakashg2004@gmail.com)  
+
+📱 Mobile: +91 6375834047  
 
